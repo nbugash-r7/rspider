@@ -1,0 +1,4 @@
+api:
+  get_scan_engines: '/engine/getscanengines'
+  save_engine: '/engine/saveengine'
+  delete_engine: '/engine/deletescanengines'

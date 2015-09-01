@@ -1,0 +1,2 @@
+api:
+  authenticate: /authentication/login
